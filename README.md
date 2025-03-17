@@ -1,4 +1,4 @@
-<div align="center"><h1>Better Foliage Recreation</h1></div>
+<div align="center"><h1>🟢 Better Foliage Recreation</h1></div>
 
 > [!Caution]
 > Better Foliage Recreation is incompatible with other resource packs and mods that modify the grass, log, and leaf models.
