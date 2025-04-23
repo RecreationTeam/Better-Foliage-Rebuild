@@ -1,0 +1,7 @@
+{
+    "parent": "block/dirt",
+    "textures": {
+        "0": "block/dirt1",
+        "particle": "block/dirt"
+    }
+}
